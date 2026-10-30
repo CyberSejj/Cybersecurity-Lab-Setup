@@ -151,15 +151,6 @@ Through this lab setup, I gained practical experience with:
 
 Detailed lab documentation and supporting screenshots will be maintained in the ""docs"" (docs/lab-setup.md) folder.
 
-## 📸 Screenshots
-
-### Kali Linux Network and System Information
-
-![Kali Linux network and system information](./IMG-20261030-WA0112.jpg)
-
-### Kali Linux CPU Information
-
-![Kali Linux CPU information](./IMG-20261030-WA0113.jpg)
 
 ## 🎥 Setup Demonstration
 
