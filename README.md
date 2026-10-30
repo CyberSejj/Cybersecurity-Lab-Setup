@@ -151,6 +151,31 @@ Through this lab setup, I gained practical experience with:
 
 Detailed lab documentation and supporting screenshots will be maintained in the ""docs"" (docs/lab-setup.md) folder.
 
+## 📸 Screenshots
+
+### Kali Linux Network and System Information
+
+![Kali Linux network and system information](./IMG-20261030-WA0112.jpg)
+
+### Kali Linux CPU Information
+
+![Kali Linux CPU information](./IMG-20261030-WA0113.jpg)
+
+## 🎥 Setup Demonstration
+
+[**Watch the Kali Linux Setup Preview (MP4)**](./cybersecurity-lab-setup-demo.mp4)
+
+This short video shows the VirtualBox and Kali Linux startup process. It is a setup preview and does not demonstrate the network connectivity tests or DNS troubleshooting.
+
+## 📌 Project Status
+
+- Virtual lab environment configured.
+- Network interfaces and routing information inspected.
+- DNS resolution issue identified and resolved.
+- Setup screenshots and preview video uploaded.
+- Lab configuration and troubleshooting documented.
+- 
+
 ⚠️ Disclaimer
 
 This is a personal educational lab created for learning and practicing cybersecurity fundamentals. All testing is conducted within my own virtual lab environment or against systems for which I have authorization.
